@@ -1,0 +1,29 @@
+html {
+  background-color: BurlyWood;
+}
+
+h1 {
+  color: FireBrick;
+}
+
+h2 {
+  color: FireBrick;
+}
+
+p {
+  color: DarkSlateGray;
+}
+
+ul {
+  color: DarkSlateGray;
+  list-style-type: none;
+}
+
+body {
+  text-align: center;
+  font-family: Courier;
+}
+
+.footer {
+  text-align: center;
+}
